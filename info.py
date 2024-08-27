@@ -11,9 +11,9 @@ def is_enabled(value, default):
 
 
 # PyroClient Setup 
-API_ID = int(environ['API_ID'])
-API_HASH = environ['API_HASH']
-BOT_TOKEN = environ['BOT_TOKEN']
+API_ID = int(environ['API_ID', '20718334'])
+API_HASH = environ['API_HASH', '4e81464b29d79c58d0ad8a0c55ece4a5']
+BOT_TOKEN = environ['BOT_TOKEN', '7436567389:AAEDUFqzZwhjTk2hWXdVXRyuMfQ6EyO3fsI']
 
 # Bot settings
 WEB_SUPPORT = bool(environ.get("WEBHOOK", 'True')) # for web support on/off
@@ -24,7 +24,7 @@ UPTIME = time.time()
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6564336670 5585016974').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '').split()]
-auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
+auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '6564336670 5585016974').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_channel = environ.get('AUTH_CHANNEL', '-1001930406310 -1002126461167 -1001751370969 -1002112596877')
 auth_grp = environ.get('AUTH_GROUP', '')
