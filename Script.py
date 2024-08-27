@@ -8,24 +8,24 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-⌬ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <ᴀ ʜʀᴇғ=ʜᴛᴛᴘs://ᴛ.ᴍᴇ/i_killed_my_clan>࿂ 𝐎ʙɪᴛᴏ ᴜᴄʜɪʜᴀ ࿂
-⌬ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <ᴀ ʜʀᴇғ=ʜᴛᴛᴘs://docs.pyrogram.org/> ࿂𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 
-⌬ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <ᴀ ʜʀᴇғ=https://www.python.org/> ࿂𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-⌬ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 :<ᴀ ʜʀᴇғ=https://www.mongodb.com> ࿂𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-⌬ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <ᴀ ʜʀᴇғ=https://www.heroku.com> ࿂𝙷𝙴𝚁𝙾𝙺𝚄
-⌬ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : <ᴀ ʜʀᴇғ=https://telegram.me/rin_nanakuraXbot?start=Z2V0LTI2MDU2NjEwNzA4NDY2MA> ࿂sᴏᴄɪᴇᴛʏ ʙᴏᴛ ᴠ4.5.0</b>"""
+⌬ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <ᴀ ʜʀᴇғ=ʜᴛᴛᴘs://ᴛ.ᴍᴇ/i_killed_my_clan>࿂ 𝐎ʙɪᴛᴏ ᴜᴄʜɪʜᴀ ࿂
+⌬ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <ᴀ ʜʀᴇғ=ʜᴛᴛᴘs://docs.pyrogram.org/> ࿂ 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 
+⌬ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <ᴀ ʜʀᴇғ=https://www.python.org/> ࿂ 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+⌬ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 :<ᴀ ʜʀᴇғ=https://www.mongodb.com> ࿂ 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+⌬ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <ᴀ ʜʀᴇғ=https://www.heroku.com> ࿂ 𝙷𝙴𝚁𝙾𝙺𝚄
+⌬ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : <ᴀ ʜʀᴇғ=https://telegram.me/rin_nanakuraXbot?start=Z2V0LTI2MDU2NjEwNzA4NDY2MA> ࿂ sᴏᴄɪᴇᴛʏ ʙᴏᴛ ᴠ4.5.0 ࿂</a></b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+- ࿂ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ࿂› :<a href=https://telegram.me/rin_nanakuraXbot?start=Z2V0LTI2MDU2NjEwNzA4NDY2MA></a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a></b>"""
+<b>࿂ ᴅᴇᴠ/ᴏᴡɴᴇʀ: <a herf=i_killed_my_clan>࿂ 𝐎ʙɪᴛᴏ ᴜᴄʜɪʜᴀ ࿂</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
 <i>Bʏ Usɪɴɢ Tʜɪs Mᴏᴅᴜʟᴇ Yᴏᴜ Cᴀɴ Sᴛᴏʀᴇ Fɪʟᴇs Iɴ Mʏ Dᴀᴛᴀʙᴀsᴇ Aɴᴅ I Wɪʟʟ Gɪᴠᴇ Yᴏᴜ A Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ  Tᴏ Aᴄᴄᴇss Tʜᴇ Sᴀᴠᴇᴅ Fɪʟᴇs. Iғ Yᴏᴜ Wᴀɴᴛ Tᴏ Aᴅᴅ Fɪʟᴇs Fʀᴏᴍ A Pᴜʙʟɪᴄ Cʜᴀɴɴᴇʟ Sᴇɴᴅ Tʜᴇ Fɪʟᴇ Lɪɴᴋ Oɴʟʏ  Oʀ Yᴏᴜ Wᴀɴᴛ Tᴏ Aᴅᴅ Fɪʟᴇs Fʀᴏᴍ A  Pʀɪᴠᴀᴛᴇ Cʜᴀɴɴᴇʟ Yᴏᴜʀ Mᴜsᴛ Mᴀᴋᴇ Mᴇ Aᴅᴍɪɴ Oɴ Tʜᴇ Cʜᴀɴɴᴇʟ Tᴏ Aᴄᴄᴇss Fɪʟᴇs</i>
 
 <b>⪼ Cᴏᴍᴍᴀɴᴅ & Usᴀɢᴇ</b>
-➪ /link › Rᴇᴘʟʏ Tᴏ Aɴʏ Mᴇᴅɪᴀ Tᴏ Gᴇᴛ Tʜᴇ Lɪɴᴋ 
+➪ /genlink › Rᴇᴘʟʏ Tᴏ Aɴʏ Mᴇᴅɪᴀ Tᴏ Gᴇᴛ Tʜᴇ Lɪɴᴋ 
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
